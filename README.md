@@ -1,4 +1,4 @@
-# AzureIA_ServiceAISearchImportDate
+# AzureIA_ServiceAISearchImportData
 Objetivo é configurar a importação de dados dentro do serviço AI Search.
 
 ### Documentação
